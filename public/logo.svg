@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#2C3E50" stroke="#34495E" stroke-width="5"/>
+
+  <!-- Lock Shape -->
+  <rect x="60" y="90" width="80" height="60" rx="10" fill="#ECF0F1" stroke="#BDC3C7" stroke-width="4"/>
+  <path d="M80 90V70a20 20 0 0140 0v20" stroke="#BDC3C7" stroke-width="4" fill="none"/>
+
+  <!-- Keyhole -->
+  <circle cx="100" cy="120" r="6" fill="#2C3E50"/>
+  <rect x="97" y="126" width="6" height="12" fill="#2C3E50"/>
+
+  <!-- Random Asterisk Symbolizing Passwords -->
+  <text x="50" y="175" font-family="Arial, sans-serif" font-size="24" fill="#ECF0F1" font-weight="bold">***</text>
+  <text x="120" y="175" font-family="Arial, sans-serif" font-size="24" fill="#ECF0F1" font-weight="bold">***</text>
+</svg>

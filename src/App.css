@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+body{
+    background-color: rgb(77, 77, 77);
+    background-image: url(https://wallpapercave.com/wp/wp3800560.png);
+    backdrop-filter: blur(2px);
+    background-position: center;
+    height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    font-family: 'Cormorant','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+}
+
+.roughtextture{
+    background-color: rgba(54, 16, 16, 0.692);
+    background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3B4ODc2MjM2LWltYWdlLWt3dnhieWZjLmpwZw.jpg);
+    background-blend-mode: multiply;
+    mix-blend-mode: difference;
+}
+
+#root{
+    margin: 0%;
+    padding: 0%;
+}
+
