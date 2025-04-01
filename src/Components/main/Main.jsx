@@ -147,7 +147,6 @@ const Main = () => {
                     <th className='p-2'>Actions</th>
                   </tr>
                   </thead>
-                {/* here will be the map function to map the table with the state data */}
                 <tbody>  
                 {
                   pass.map((item,i)=>(
